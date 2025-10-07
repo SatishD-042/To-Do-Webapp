@@ -21,25 +21,6 @@ This project is a Full Stack Todo List Application which is built using the Mong
    <br/>
    <br/>
 
-## 🔥 Getting Started With The Project
-
--  Fork the Project in your Repository.
--  Clone the Forked Repository in your Local System.
--  Install & Configure - NodeJS, MongoDB, Robo3T.
--  Create '.env' file & Set the Environment Variables in it, as per the 'ENV_FORMAT.json' file.
--  Run 'npm install' in GitBash Terminal
--  Go to 'package.json' & inside the 'SCRIPTS', find "start":"...." <br/>
-   Change it to - "start": "nodemon index.js",
--  If you want to run the project in development mode locally then go to '.env' file & set,<br/>
-   ENVIRONMENT=development <br/>
-   DEPLOYMENT=local
--  If you want to run the project in production mode locally then go to '.env' file & set,<br/>
-   ENVIRONMENT=production <br/>
-   DEPLOYMENT=local
--  Change "module.exports = production" to "module.exports = development" or vice-versa in the 'environment.js' file as per the requirement.
--  Run 'npm start' in GitBash Terminal
--  Enjoy :)
-
 For any issues related to the project, raise an ISSUE in the respective Repository.
 <br/>
 <br/>
@@ -75,29 +56,3 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
    <br/>
    <br/>
 
-## 🔗 Links
-
-> ## Checkout the Website [Web Application](https://fullstack-todo-list-application.onrender.com)
->
-> ## Checkout the Application Demo Video [YouTube](https://youtu.be/2VyxSQAE5mo)
-
-<br/>
-
-## 💻 Screens
-
-<p align="justify">
-<img src="https://user-images.githubusercontent.com/76626529/185441736-3de3ccec-045d-42b2-9533-b786fdf12e02.png">
-</p>
-<br/>
-
-## 🐦 Follow Me:
-
-> [Dev Community](https://dev.to/ayushkanduri)
-
-> [Twitter](https://twitter.com/ayush_codes)
-
-> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
-
-> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
-
-I hope you like the project. Thanks for reading :)
